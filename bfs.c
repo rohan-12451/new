@@ -17,7 +17,7 @@ int main() {
     int queue[MAX], front = 0, rear = 0;
 
     // Input section
-    printf("Enter number of nodes in graph: ");
+    printf("Enter number of nodes  graph: ");
     scanf("%d", &n);
 
     printf("Enter start node: ");
